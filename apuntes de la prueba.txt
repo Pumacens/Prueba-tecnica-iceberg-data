@@ -1,0 +1,258 @@
+Curls de Ejemplo
+
+curl 'https://h5api.m.goofish.com/h5/mtop.taobao.idle.pc.detail/1.0/?jsv=2.7.2&appKey=34839810&t=1770053087590&sign=bf093dd31aa22f70990ce8d668d97caf&v=1.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idle.pc.detail&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.item.0.0' \
+  -H 'accept: application/json' \
+  -H 'accept-language: es,es-ES;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6,ru;q=0.5' \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -b 'cna=OcsHIsc4wyACAQAAAABS48Vo; cookie2=1c631a4b2344d05190ea9b560dd525bd; mtop_partitioned_detect=1; _m_h5_tk=ad0344e0cfb623dbe907a1dce176787b_1770061562804; _m_h5_tk_enc=5402fb442aaf95358a3911ac15449280; xlly_s=1; _samesite_flag_=true; t=bd545591d2c3e2877f831900d4f9d7d4; _tb_token_=ee3e390133e18; tfstk=gMOEfWw8OXhUVXnDuEfrgDk8K95dI_oftQs5rUYlRMjhNvIlqUKOP7TkO3-y0HPBVUmp4QSMbe6WdX3y4nxFFTA5VQzp_nP7ODHpr755ZmijGjTKJ_CocquOoUIdyFjo59fes2l1ZmijGLG8qpfkR0at6FYGXa7uq9xujFjOlWflxTqgIZjGq_xlq12GrZyl-WXuSV7RjgflZ3Yi7aSGq_fkqFDHjeYu_Z6n-ndT89m039jD-GPualQFKicAb7Vk_w8Nme0zZ7AN89Ra-z4TR99kktdBtbPOOEJGsZTKT55D-Z-Cfnc0_1Y6S36vB0FfBhRPHBX3rVjMThRdtHMugn5e4tAhQzVW-ejd_NAmP-I6_MtkTO0bgT1MGtfHCAnCF672qBKUz7xD5EOdBQo4jgpCk1bXJXPNiebl4NZRS0qMwpruE9bO7igZ7gWMnD8AajpQe8BGMNSjRww8e9bO7igZ78eRIZQNc2_C.' \
+  -H 'origin: https://www.goofish.com' \
+  -H 'pragma: no-cache' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://www.goofish.com/' \
+  -H 'sec-ch-ua: "Not(A:Brand";v="8", "Chromium";v="144", "Microsoft Edge";v="144"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0' \
+  --data-raw 'data=%7B%22itemId%22%3A%22995598771021%22%7D'
+
+
+
+
+
+curl 'https://h5api.m.goofish.com/h5/mtop.taobao.idle.pc.detail/1.0/?jsv=2.7.2&appKey=34839810&t=1770053087590&sign=bf093dd31aa22f70990ce8d668d97caf&v=1.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idle.pc.detail&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.item.0.0' \
+  -H 'accept: application/json' \
+  -H 'accept-language: es,es-ES;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6,ru;q=0.5' \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -b 'cna=OcsHIsc4wyACAQAAAABS48Vo; cookie2=1c631a4b2344d05190ea9b560dd525bd; mtop_partitioned_detect=1; _m_h5_tk=ad0344e0cfb623dbe907a1dce176787b_1770061562804; _m_h5_tk_enc=5402fb442aaf95358a3911ac15449280; xlly_s=1; _samesite_flag_=true; t=bd545591d2c3e2877f831900d4f9d7d4; _tb_token_=ee3e390133e18; tfstk=gMOEfWw8OXhUVXnDuEfrgDk8K95dI_oftQs5rUYlRMjhNvIlqUKOP7TkO3-y0HPBVUmp4QSMbe6WdX3y4nxFFTA5VQzp_nP7ODHpr755ZmijGjTKJ_CocquOoUIdyFjo59fes2l1ZmijGLG8qpfkR0at6FYGXa7uq9xujFjOlWflxTqgIZjGq_xlq12GrZyl-WXuSV7RjgflZ3Yi7aSGq_fkqFDHjeYu_Z6n-ndT89m039jD-GPualQFKicAb7Vk_w8Nme0zZ7AN89Ra-z4TR99kktdBtbPOOEJGsZTKT55D-Z-Cfnc0_1Y6S36vB0FfBhRPHBX3rVjMThRdtHMugn5e4tAhQzVW-ejd_NAmP-I6_MtkTO0bgT1MGtfHCAnCF672qBKUz7xD5EOdBQo4jgpCk1bXJXPNiebl4NZRS0qMwpruE9bO7igZ7gWMnD8AajpQe8BGMNSjRww8e9bO7igZ78eRIZQNc2_C.' \
+  -H 'origin: https://www.goofish.com' \
+  -H 'pragma: no-cache' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://www.goofish.com/' \
+  -H 'sec-ch-ua: "Not(A:Brand";v="8", "Chromium";v="144", "Microsoft Edge";v="144"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0' \
+  --data-raw 'data=%7B%22itemId%22%3A%22995598771021%22%7D'
+
+
+
+
+curl 'https://h5api.m.goofish.com/h5/mtop.taobao.idle.pc.detail/1.0/?jsv=2.7.2&appKey=34839810&t=1770058153955&sign=8148926b0e4f795db7698bcf3d38de9e&v=1.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idle.pc.detail&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.item.0.0' \
+  -H 'accept: application/json' \
+  -H 'accept-language: es,es-ES;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6,ru;q=0.5' \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -b 'cna=OcsHIsc4wyACAQAAAABS48Vo; cookie2=1c631a4b2344d05190ea9b560dd525bd; mtop_partitioned_detect=1; _m_h5_tk=ad0344e0cfb623dbe907a1dce176787b_1770061562804; _m_h5_tk_enc=5402fb442aaf95358a3911ac15449280; xlly_s=1; _samesite_flag_=true; t=bd545591d2c3e2877f831900d4f9d7d4; _tb_token_=ee3e390133e18; tfstk=gUOZfkwY1fhNCQnkzUfqac5ntw1OBso5sIsfoEYc5GjGGAIcmEKdlSTD1n-24hP6cEm90ISHYF6XCf3203xNhtAfcIz9T3Pb1cH9oS5fi0iSNbTtWsCmVvWGy4jOkejmROfwtVlCi0iSNKGYmdfD5m6BKeYhvZ70mOx0xejdz-fcjtq3Kajhmsxcjk4h5N4GSSjGK27Axifcinfn8ZshmsfDmeDdvij7TaWiS3hXJG3HiOSkSMPy2B7GWRLGYSVDTpWNqjSUiSAF7Emo4tNrhgvRfT6exXNNgeb2fMtoZW5hULLfuhlas19HpCC6O0zRQnS1EBWEtk7eTU9lJekr8eRVbTAGLrNRt1QDmtJK47_N1pWy_d3YxFx5bLf9lzo68TJFewX3uRf6FUOAECca2M6RuhsBqbVFttjPloQnmkAvQo2cIwQFV2uF09vobUCqwdwYH9fR8gg15-eAIwQFV2uUH-BhywSS5N1..' \
+  -H 'origin: https://www.goofish.com' \
+  -H 'pragma: no-cache' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://www.goofish.com/' \
+  -H 'sec-ch-ua: "Not(A:Brand";v="8", "Chromium";v="144", "Microsoft Edge";v="144"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0' \
+  --data-raw 'data=%7B%22itemId%22%3A%22894551126004%22%7D'
+
+
+
+
+curl 'https://h5api.m.goofish.com/h5/mtop.taobao.idle.pc.detail/1.0/?jsv=2.7.2&appKey=34839810&t=1770061043713&sign=8cda6f8d213becf0b4e5bc2c21155f91&v=1.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idle.pc.detail&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.item.0.0' \
+  -H 'accept: application/json' \
+  -H 'accept-language: es,es-ES;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6,ru;q=0.5' \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -b 'cna=OcsHIsc4wyACAQAAAABS48Vo; cookie2=1c631a4b2344d05190ea9b560dd525bd; xlly_s=1; _samesite_flag_=true; t=bd545591d2c3e2877f831900d4f9d7d4; _tb_token_=ee3e390133e18; mtop_partitioned_detect=1; _m_h5_tk=31eef955704f7001c8f1b80aa6ebdefa_1770069669274; _m_h5_tk_enc=3805083cf8197cc8425d2b416b46165d; tfstk=gDEZQ3TvfGIa5aCuU8mV41Rd9tmtqm550oGjn-2mCfcMfhO087VK1ras1KzUiW3ssPGX0ooTAPtj11n4n7iVN_s5VRetvmf5NFVQxnimniGcRVjj0MnRN_s5ANvn0157CiOSs2DxtADmnmXetxkZmA0MS9ln3YLDsSmcL9kqHxDisfjH-YHZmjVmS9yn9xomISmcLJcKnvC-ibtEUVXgwLGYJ_4Z7b2iT3P8xA0wWRcemnqU8Vll0X-Dmkkan_frP37jZzhsP2PhAho4KxPsO7jkYD0zy-M4_G-ify4LXcZCaL3agfguY2SHTvrUFzDLLaWULolZrl0eh3nnXxVmuyCyVAo_84raWtd3I7GarceXU1wEzyu-K2v2Sca7Fo3ujGR-O4H41XNlqHonog5kMvfDtoUwiEuipvl5L9lq-zfZ0Piv2ELxWyHENOB9oEAJmnTaqOLvkVnELb6OQ' \
+  -H 'origin: https://www.goofish.com' \
+  -H 'pragma: no-cache' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://www.goofish.com/' \
+  -H 'sec-ch-ua: "Not(A:Brand";v="8", "Chromium";v="144", "Microsoft Edge";v="144"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0' \
+  --data-raw 'data=%7B%22itemId%22%3A%22894551126004%22%7D'
+
+
+
+Estos son los headers
+
+Request URL
+https://h5api.m.goofish.com/h5/mtop.taobao.idle.pc.detail/1.0/?jsv=2.7.2&appKey=34839810&t=1770061043713&sign=8cda6f8d213becf0b4e5bc2c21155f91&v=1.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idle.pc.detail&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.item.0.0
+Request Method
+POST
+Status Code
+200 OK
+Remote Address
+[2408:4001:f10::149]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-credentials
+true
+access-control-allow-origin
+https://www.goofish.com
+access-control-expose-headers
+x-eagleeye-id
+cache-control
+no-cache
+content-encoding
+zstd
+content-type
+application/json;charset=UTF-8
+date
+Mon, 02 Feb 2026 19:37:23 GMT
+eagleeye-traceid
+215042fe17700610432265473e140d
+last-modified
+Mon, 2 Feb 2026 19:37:23 GMT
+mtop-x-provider
+fbc04282e3de5bd1226b9cc664b7591ddcf406c5dc52302c26642816dfb4ef3ce0069f1d56f84734349fe48c1a3886c6
+pragma
+no-cache
+s-brt
+136
+s-cunit
+0
+s-rt
+139
+s_group
+tao-session
+s_ip
+457079564b3254704a4149306f7a553d
+s_read_unit
+[CN:CENTER]
+s_status
+STATUS_NORMAL
+s_tag
+285873024860160|134217728^0|^^
+s_tid
+215042fe17700610432265473e140d
+s_ucode
+CN:CENTER
+s_v
+4.0.4.9
+strict-transport-security
+max-age=0
+ups-target-key
+mtop.uncenter.idledetail
+vary
+Accept-Encoding
+x-eagleeye-id
+215042fe17700610432265473e140d
+x-node
+6286dc407e87f8e801efff9424d410be
+x-powered-by
+m.taobao.com
+x-protocol
+HTTP/2.0
+:authority
+h5api.m.goofish.com
+:method
+POST
+:path
+/h5/mtop.taobao.idle.pc.detail/1.0/?jsv=2.7.2&appKey=34839810&t=1770061043713&sign=8cda6f8d213becf0b4e5bc2c21155f91&v=1.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idle.pc.detail&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.item.0.0
+:scheme
+https
+accept
+application/json
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+es,es-ES;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6,ru;q=0.5
+cache-control
+no-cache
+content-length
+44
+content-type
+application/x-www-form-urlencoded
+cookie
+cna=OcsHIsc4wyACAQAAAABS48Vo; cookie2=1c631a4b2344d05190ea9b560dd525bd; xlly_s=1; _samesite_flag_=true; t=bd545591d2c3e2877f831900d4f9d7d4; _tb_token_=ee3e390133e18; mtop_partitioned_detect=1; _m_h5_tk=31eef955704f7001c8f1b80aa6ebdefa_1770069669274; _m_h5_tk_enc=3805083cf8197cc8425d2b416b46165d; tfstk=gDEZQ3TvfGIa5aCuU8mV41Rd9tmtqm550oGjn-2mCfcMfhO087VK1ras1KzUiW3ssPGX0ooTAPtj11n4n7iVN_s5VRetvmf5NFVQxnimniGcRVjj0MnRN_s5ANvn0157CiOSs2DxtADmnmXetxkZmA0MS9ln3YLDsSmcL9kqHxDisfjH-YHZmjVmS9yn9xomISmcLJcKnvC-ibtEUVXgwLGYJ_4Z7b2iT3P8xA0wWRcemnqU8Vll0X-Dmkkan_frP37jZzhsP2PhAho4KxPsO7jkYD0zy-M4_G-ify4LXcZCaL3agfguY2SHTvrUFzDLLaWULolZrl0eh3nnXxVmuyCyVAo_84raWtd3I7GarceXU1wEzyu-K2v2Sca7Fo3ujGR-O4H41XNlqHonog5kMvfDtoUwiEuipvl5L9lq-zfZ0Piv2ELxWyHENOB9oEAJmnTaqOLvkVnELb6OQ
+origin
+https://www.goofish.com
+pragma
+no-cache
+priority
+u=1, i
+referer
+https://www.goofish.com/
+sec-ch-ua
+"Not(A:Brand";v="8", "Chromium";v="144", "Microsoft Edge";v="144"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-site
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0
+
+
+
+
+
+Este es el payload
+
+jsv
+2.7.2
+appKey
+34839810
+t
+1770061043713
+sign
+8cda6f8d213becf0b4e5bc2c21155f91
+v
+1.0
+type
+originaljson
+accountSite
+xianyu
+dataType
+json
+timeout
+20000
+api
+mtop.taobao.idle.pc.detail
+sessionOption
+AutoLoginOnly
+spm_cnt
+a21ybx.item.0.0
+data
+{"itemId":"894551126004"}
+
+
+
+
+
+
+
+
+Datos segun response_example.json
+
+ITEM_ID = response["data"]["trackParams"]["itemId"]
+CATEGORY_ID = response["data"]["trackParams"]["categoryId"]
+TITLE = response["data"]["itemDO"]["desc"]
+IMAGES = response["data"]["trackParams"]["mainPic"]
+SOLD_PRICE = response["data"]["itemDO"]["soldPrice"]
+BROWSE_COUNT = response["data"]["itemDO"]["browseCnt"]
+WANT_COUNT = response["data"]["itemDO"]["wantCnt"]
+COLLECT_COUNT = response["data"]["itemDO"]["collectCnt"]
+QUANTITY = response["data"]["itemDO"]["quantity"]
+GMT_CREATE = response["data"]["itemDO"]["gmtCreate"]
+SELLER_ID = response["data"]["trackParams"]["sellerId"]
